@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.vscode/*
+__pycache__/
+
+# https://www.gold.org/goldhub/data/gold-prices 에서 Prices.xlsx 파일을 다운로드하세요.
+data/gold-prices.xlsx
