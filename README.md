@@ -122,4 +122,5 @@
 
 ## 출처
 
+- https://youtu.be/BMvzfHDimYg
 - Z. He, J. Zhou, H. Dai and H. Wang, "Gold Price Forecast Based on LSTM-CNN Model," 2019 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech), Fukuoka, Japan, 2019, pp. 1046-1053, doi: 10.1109/DASC/PiCom/CBDCom/CyberSciTech.2019.00188.
